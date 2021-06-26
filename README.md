@@ -45,4 +45,5 @@ The dataset consists of different left and right iris images and we took this fr
 If the person is authorized, vote window will be visible where list nominees, party names and logos will be visible in dropdown menu format.
 
 **Output**
+
 With this project, duplicate votes will not be possible and as iris is unique for every person, same person will not be allowed to vote.
